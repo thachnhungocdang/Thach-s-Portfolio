@@ -8,3 +8,4 @@ This repository contains my portfolio of data analytics projects, including Powe
   - Over 95% customers are one-time buyers
 - **Highlights**: Business recommendations to improve retention, logistics, and product information  
 ![Dashboard Preview](./projects/brazilian-ecommerce/brazil_customer_pro.png)
+### [Loan Default](./projects/loan-default)
