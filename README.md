@@ -9,3 +9,8 @@ This repository contains my portfolio of data analytics projects, including Powe
 - **Highlights**: Business recommendations to improve retention, logistics, and product information  
 ![Dashboard Preview](./projects/brazilian-ecommerce/brazil_customer_pro.png)
 ### [Loan Default](./projects/loan-default)
+- **Tool**: Power BI
+- **Key Insights**: 
+  - Income level, age and interest rate were the strongest predictors of default
+  - 
+- **Highlights**: Business recommendations to   
