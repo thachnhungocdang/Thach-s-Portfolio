@@ -1,6 +1,6 @@
 # Thach's Portfolio
 This repository contains my portfolio of data analytics projects, including Power BI dashboards, Python, and business case studies. 
-## Projects 
+## Projects (Power BI)
 ### [Brazilian E-commerce Analysis of Olist Store](./projects/brazilian-ecommerce)
 - **Tool**: Power BI
 - **Key Insights**: 
