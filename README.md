@@ -1,9 +1,22 @@
 # Thach's Portfolio
 This repository contains my portfolio of data analytics projects, including Power BI dashboards, Python, and business case studies. 
 ## Table of Contents
+- [Projects (Python + Power BI)](#projects-python--power-bi)
+  - [Apartment Price in Hanoi](#apartment-price-analysis-in-hanoi).
 - [Projects (Power BI)](#projects-power-bi)
   - [Brazilian E-commerce Analysis of Olist Store](#brazilian-e-commerce-analysis-of-olist-store)
   - [Loan Default](#loan-default)
+## Projects (Python + Power BI)
+### [Apartment Price Analysis in Hanoi](./projects/apartment_price)
+- **Tools**: Python (Crawl, Clean, EDA) & Power BI  
+- **Key Insights**:
+  - Apartment prices in **urban districts** are significantly higher than in suburban areas.  
+  - The **highest average price** per square meter is observed in **Tây Hồ District**.  
+- **Highlights**:
+  - Data was **crawled from the Alonhadat real estate website** on **October 16, 2025**, containing ~2,000 raw listings before cleaning.  
+  - The dataset represents a **sample for exploratory analysis**, not the full Hanoi real estate market.  
+  
+  
 ## Projects (Power BI)
 ### [Brazilian E-commerce Analysis of Olist Store](./projects/brazilian-ecommerce)
 - **Tool**: Power BI
