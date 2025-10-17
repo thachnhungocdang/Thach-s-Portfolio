@@ -4,7 +4,6 @@ This repository contains my portfolio of data analytics projects, including Powe
 - [Projects (Python + Power BI)](#projects-python--power-bi)
   - [Apartment Price in Hanoi](#apartment-price-analysis-in-hanoi).
 - [Projects (Power BI)](#projects-power-bi)
-  - [Brazilian E-commerce Analysis of Olist Store](#brazilian-e-commerce-analysis-of-olist-store)
   - [Loan Default](#loan-default)
 ## Projects (Python + Power BI)
 ### [Apartment Price Analysis in Hanoi](./projects/apartment_price)
