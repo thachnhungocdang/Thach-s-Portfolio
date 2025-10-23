@@ -14,7 +14,7 @@ This repository contains my portfolio of data analytics projects, including Powe
 - **Highlights**:
   - Data was **crawled from the Alonhadat real estate website** on **October 16, 2025**, containing ~2,000 raw listings before cleaning.  
   - The dataset represents a **sample for exploratory analysis**, not the full Hanoi real estate market.  
-
+![Dashboard Preview](./projects/apartment_price/overview_powerbi_png)
 ![Dashboard Preview](./projects/apartment_price/detail_powerbi_png)
   
 ## Projects (Power BI)
